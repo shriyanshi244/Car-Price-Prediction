@@ -243,7 +243,7 @@ Possible improvements for this project include:
 
 ## 👩‍💻 Author
 
-**Shriyanshi Kumari**
+**Shriyanshi**
 
 B.Tech – Computer Science & Engineering
 
