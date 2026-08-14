@@ -49,7 +49,7 @@ Save Model as model.pkl
 Car-Price-Prediction/
 │
 ├── Car_Price_Model.ipynb
-├── Cardetails.csv
+├── app.py
 ├── model.pkl
 └── README.md
 ```
